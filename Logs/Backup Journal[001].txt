@@ -1,0 +1,6 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:braymo:Dropbox:Consulting:Demo Databases:DualNatureOfObjects.4dbase:DualNatureOfObjects[0001].4BK
+Scheduled 11/7/16 3:04 PM
+Starting 11/7/16 3:04 PM
+Ending 11/7/16 3:04 PM
+
